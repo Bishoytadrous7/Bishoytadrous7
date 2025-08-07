@@ -1,5 +1,5 @@
-<h1 align="center"># Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bishoy Tadrous</h1>
-<h3 align="center">Computer Science student | Aspiring Software Engineer | Web Developer  ⚽🎮</h3>
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bishoy Tadrous</h1>
+<h3 align="center">Computer Science Student | Aspiring Software Engineer | Web Developer ⚽🎮</h3>
 
 ---
 
@@ -7,7 +7,10 @@
 
 - 🌍 Based in **Illinois**, originally from **Egypt**
 - 🎓 Studying **Computer Science** at **Knox College**
+- 🌱 Currently exploring **iOS development**, backend systems, and AI for games
+- 🧩 Passionate about turning creative ideas into interactive apps and tools
 
+---
 
 ### ⚒️ Tech Stack
 
@@ -26,25 +29,18 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bishoytadrous7&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishoytadrous7&layout=donut&theme=radical" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishoytadrous7&layout=donut)](https://github.com/Bishoytadrous7/github-readme-stats)
+---
 
 ### 📬 Let's Connect!
 
-- 📫 Email: bishoytadrous7@gmail.com  
-<!-- Actual text -->
+- 📫 Email: **bishoytadrous7@gmail.com**
 
-You can find me on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[2]: https://www.linkedin.com/in/btadrous/
----
----
-
-
+<p>
+  <a href="https://www.linkedin.com/in/btadrous/" target="_blank">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" width="20" alt="LinkedIn icon" />
+    LinkedIn
+  </a>
+</p>
