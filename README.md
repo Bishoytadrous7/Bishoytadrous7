@@ -39,12 +39,4 @@
 
 ---
 
-### ⚡ Fun Facts
-
-- 🏆 Placed **3rd at INNOVATE-EARTH Hackathon**
-- ⚽ Huge fan of soccer & Barcelona FC
-- 🧠 Self-taught in Java, JavaScript, React, and more
-- 🎨 I love designing clean UI and turning data into visuals
-
----
 
