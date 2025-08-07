@@ -7,8 +7,8 @@
 
 - 🌍 Based in **Illinois**, originally from **Egypt**
 - 🎓 Studying **Computer Science** at **Knox College**
+- 💡 I love building **engaging web applications** that are interactive and fun to use
 - 📱 Currently exploring **iOS development**. 
-- 💡 I love building **engaging web applications** that are interactive and fun to use 
 
 ---
 
