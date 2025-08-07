@@ -36,7 +36,7 @@
 ### 📬 Let's Connect!
 
 
-- 📫 Email: **bishoytadrous7@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/bishoytadrous7](https://www.linkedin.com/in/bishoytadrous7)
+- Email: **bishoytadrous7@gmail.com**  
+- LinkedIn: [linkedin.com/in/bishoytadrous7](https://www.linkedin.com/in/bishoytadrous7)
 
 ---
