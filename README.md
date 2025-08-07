@@ -7,8 +7,8 @@
 
 - 🌍 Based in **Illinois**, originally from **Egypt**
 - 🎓 Studying **Computer Science** at **Knox College**
-- 🌱 Currently exploring **iOS development**, backend systems, and AI for games
-- 🧩 Passionate about turning creative ideas into interactive apps and tools
+- 📱 Currently exploring **iOS development**. 
+- 💡 I love building **engaging web applications** that are interactive and fun to use 
 
 ---
 
@@ -21,7 +21,6 @@
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032.svg?style=flat-square&logo=git&logoColor=white)
 
 ---
 
