@@ -28,8 +28,8 @@
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bishoytadrous7&theme=radical" />
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishoytadrous7&layout=compact)
----
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📬 Let's Connect!
 
