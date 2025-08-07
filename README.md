@@ -37,6 +37,6 @@
 
 
 - Email: **bishoytadrous7@gmail.com**  
-- LinkedIn: [linkedin.com/in/bishoytadrous7](https://www.linkedin.com/in/bishoytadrous7)
+- LinkedIn: [linkedin.com/in/btadrous](https://www.linkedin.com/in/btadrous/)
 
 ---
