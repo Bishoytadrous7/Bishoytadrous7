@@ -29,18 +29,15 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bishoytadrous7&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishoytadrous7&layout=donut&theme=radical" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishoytadrous7&layout=donut&theme=radical" />
 </p>
 
 ---
 
 ### 📬 Let's Connect!
 
-- 📫 Email: **bishoytadrous7@gmail.com**
 
-<p>
-  <a href="https://www.linkedin.com/in/btadrous/" target="_blank">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" width="20" alt="LinkedIn icon" />
-    LinkedIn
-  </a>
-</p>
+- 📫 Email: **bishoytadrous7@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/bishoytadrous7](https://www.linkedin.com/in/bishoytadrous7)
+
+---
