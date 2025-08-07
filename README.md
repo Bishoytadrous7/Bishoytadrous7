@@ -28,6 +28,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bishoytadrous7&theme=radical" />
 </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 
 ---
