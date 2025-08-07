@@ -1,4 +1,4 @@
-<h1 align="center"># Hello,! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Bishoy Tadrous</h1>
+<h1 align="center"># Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Bishoy Tadrous</h1>
 <h3 align="center">Computer Science student | Aspiring Software Engineer | Web Developer  ⚽🎮</h3>
 
 ---
