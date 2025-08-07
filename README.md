@@ -28,8 +28,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bishoytadrous7&theme=radical" />
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishoytadrous7)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishoytadrous7&layout=compact)
 ---
 
 ### 📬 Let's Connect!
