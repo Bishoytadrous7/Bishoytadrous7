@@ -33,11 +33,6 @@
 
 ---
 
-### 🧠 LeetCode Progress
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/bishoytadrous7?ext=heatmap&theme=dark)](https://leetcode.com/bishoytadrous7/)
-
----
 ### 📬 Let's Connect!
 
 
