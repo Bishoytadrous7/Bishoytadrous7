@@ -25,7 +25,7 @@
 ---
 ### 🧠 LeetCode Progress
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?ext=heatmap)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/bishoytadrous7?ext=heatmap&theme=dark)](https://leetcode.com/bishoytadrous7/)
 
 
 ### 📈 GitHub Stats
