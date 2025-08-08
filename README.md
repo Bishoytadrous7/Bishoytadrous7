@@ -23,7 +23,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
 
 ---
-[![LeetCode Stats](https://leetcard.jacoblin.cool/bishoytadrous7?ext=heatmap&theme=dark)](https://leetcode.com/bishoytadrous7/)
+### 🧠 LeetCode Progress
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?ext=heatmap)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
 
 
 ### 📈 GitHub Stats
