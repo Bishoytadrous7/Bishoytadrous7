@@ -27,7 +27,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=Bishoytadrous7&theme=radical" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Bishoytadrous7&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
   <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishoytadrous7&layout=donut&theme=radical" />
 </p>
 
