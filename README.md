@@ -31,13 +31,6 @@
   <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishoytadrous7&layout=donut&theme=radical" />
 </p>
 
----
-
-### 📊 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Bishoytadrous7?theme=dark&font=Karma&ext=activity" />
-</p>
 
 ---
 
