@@ -33,6 +33,14 @@
 
 ---
 
+### 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Bishoytadrous7?theme=dark&font=Karma&ext=activity" />
+</p>
+
+---
+
 ### 📬 Let's Connect!
 
 
